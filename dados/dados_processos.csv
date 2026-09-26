@@ -1,0 +1,21 @@
+id_processo,tipo_servico,data_entrada,data_conclusao,status,origem_atendimento,tipo_veiculo,valor_servico
+1,Transferencia,2026-01-05,2026-01-08,Concluido,Presencial,Automovel,120.00
+2,Licenciamento,2026-01-08,2026-01-08,Concluido,WhatsApp,Automovel,70.00
+3,Transferencia,2026-01-12,2026-01-16,Concluido,Presencial,Motocicleta,120.00
+4,Alteracao de dados,2026-01-15,2026-01-22,Concluido,WhatsApp,Caminhao,120.00
+5,Licenciamento,2026-01-20,2026-01-20,Concluido,Presencial,Automovel,70.00
+6,Transferencia,2026-02-03,2026-02-09,Concluido,Indicacao,Automovel,120.00
+7,Mudanca de caracteristicas,2026-02-10,2026-02-20,Concluido,Presencial,Caminhonete,120.00
+8,Licenciamento,2026-02-12,2026-02-12,Concluido,WhatsApp,Motocicleta,70.00
+9,Transferencia,2026-02-18,,Em andamento,Presencial,Automovel,120.00
+10,Licenciamento,2026-02-25,2026-02-25,Concluido,WhatsApp,Automovel,70.00
+11,Transferencia,2026-03-03,2026-03-06,Concluido,Presencial,Caminhonete,120.00
+12,Alteracao de dados,2026-03-05,,Pendente,Indicacao,Caminhao,120.00
+13,Licenciamento,2026-03-10,2026-03-10,Concluido,Presencial,Automovel,70.00
+14,Transferencia,2026-03-12,2026-03-18,Concluido,WhatsApp,Automovel,120.00
+15,Mudanca de caracteristicas,2026-03-16,,Em andamento,Presencial,Caminhonete,120.00
+16,Licenciamento,2026-04-02,2026-04-02,Concluido,WhatsApp,Motocicleta,70.00
+17,Transferencia,2026-04-06,2026-04-10,Concluido,Presencial,Automovel,120.00
+18,Licenciamento,2026-04-10,2026-04-10,Concluido,Indicacao,Automovel,70.00
+19,Alteracao de dados,2026-04-15,2026-04-23,Concluido,Presencial,Caminhao,120.00
+20,Transferencia,2026-04-20,,Pendente,WhatsApp,Automovel,120.00
