@@ -1,0 +1,8 @@
+﻿id_processo,data_abertura,tipo_servico,origem_atendimento,tipo_veiculo,status,data_conclusao,prazo_previsto,documentacao_pendente,valor_servico,dias_conclusao,prazo_dias,mes_abertura,dia_semana_abertura,concluido,atrasou
+001,2026-09-28,licenciamento,cliente,automovel,concluido,2026-09-28,2026-10-01,nao,70,0.0,3,9,0,1,0
+002,2026-09-29,transferencia,cliente,automovel,concluido,2026-09-30,2026-10-02,nao,150,1.0,3,9,1,1,0
+003,2026-09-30,transferencia,cliente,automovel,concluido,2026-09-30,2026-10-03,nao,150,0.0,3,9,2,1,0
+004,2026-10-01,licenciamento,cliente,motocicleta,concluido,2026-10-01,2026-10-04,nao,70,0.0,3,10,3,1,0
+005,2026-10-02,licenciamento,cliente,automovel,concluido,2026-10-05,2026-10-05,nao,70,3.0,3,10,4,1,0
+006,2026-10-05,transferencia,cliente,motocicleta,pendente,,2026-10-08,vistoria,150,,3,10,0,0,
+007,2026-10-06,licenciamento,cliente,caminhao,concluido,2026-10-06,2026-10-09,nao,70,0.0,3,10,1,1,0
