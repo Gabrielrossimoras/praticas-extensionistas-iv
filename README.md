@@ -162,36 +162,26 @@ Também foi realizada uma simulação de transferência de automóvel, na qual o
 
 ### Sprint 6 — Desenvolvimento da Interface e Integração
 
-**Situação: Planejada**
 
-A próxima etapa será o desenvolvimento de uma interface visual para facilitar a consulta e o acompanhamento dos processos.
+**Situação: Implementada — Sistema Beta funcional**
 
-Está prevista a utilização do Streamlit, integrado ao Python e aos dados tratados.
+Nesta etapa foi desenvolvido um dashboard interativo utilizando Python e Streamlit, integrado aos dados tratados na Sprint 4 e ao modelo preditivo experimental treinado na Sprint 5.
 
-As funcionalidades planejadas incluem:
+O sistema permite visualizar indicadores dos atendimentos, gráficos por tipo de serviço e veículo, tempo médio de conclusão e valores registrados.
 
-- Painel com indicadores de atendimentos.
-- Visualização dos processos concluídos e pendentes.
-- Gráficos por tipo de serviço e veículo.
-- Acompanhamento dos prazos.
-- Consulta aos valores registrados.
-- Simulação experimental do tempo de conclusão de novos atendimentos.
+Também foi implementada uma funcionalidade de Inteligência Artificial que permite selecionar o tipo de serviço, o tipo de veículo e a origem do atendimento para gerar uma estimativa experimental do tempo de conclusão.
 
-As estimativas do modelo continuarão identificadas como demonstrativas até que seja possível realizar uma validação com dados independentes.
+O sistema foi publicado no Streamlit Community Cloud, permitindo seu acesso pela internet.
 
-### Tecnologias Utilizadas
+**Acesso ao sistema:** https://despachante-jumbo-ia.streamlit.app/
 
-- Python
-- Pandas
-- Matplotlib
-- scikit-learn
-- Google Colab
-- Git e GitHub
-- Streamlit (planejado para a Sprint 6)
+**Observação:** o modelo preditivo utiliza uma amostra pequena e ainda não foi validado com dados independentes. Portanto, suas previsões são demonstrativas e não representam prazos oficiais.
 
-### Próximos Passos
-
-Ampliar a base de atendimentos anonimizados, desenvolver a interface visual, integrar os indicadores e o modelo experimental e realizar novos testes para avaliar a evolução do sistema.
+**Entregáveis da Sprint 6:**
+- Dashboard interativo desenvolvido em Streamlit.
+- Integração do modelo preditivo ao sistema.
+- Sistema Beta publicado e acessível.
+- Relatório Técnico da Sprint 6.
 
 O objetivo final é construir uma ferramenta que auxilie na organização dos atendimentos e na tomada de decisões dentro da rotina de um despachante documentalista.
 
